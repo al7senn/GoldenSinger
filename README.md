@@ -5,7 +5,7 @@ iOS App Singer With Notifications (;
 
 # important:
 The App must be signed with a original BundleID
-If you want to know a original BundleID for Apps go to cornerdev.com/bundleid.html
+If you want to know a original BundleID for Apps go to http://offcornerdev.com/bundleid.html
 
 # Credits
 - [BandarHelal](https://twitter.com/Golden_Apple9)
