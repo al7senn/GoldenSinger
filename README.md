@@ -12,7 +12,8 @@ iOS App Singer With Notifications (;
 - [Donate via paypal](https://www.paypal.me/fjr699)
 
 # Special Thanks:
-Alan Marcan
+- [@othman_tech](https://twitter.com/othman_tech) For Notification File
+- Alan Marcan
 
 # Version:
 - 2.5
